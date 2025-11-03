@@ -1,0 +1,12 @@
+
+---
+
+## 🛑 `.gitignore`
+
+```plaintext
+node_modules
+dist
+.storybook-out
+.env
+.DS_Store
+*.log
